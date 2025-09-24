@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed82242e46a0c7f4f93f2c10bdf4099f, type: 3}
+  m_Name: A03SO
+  m_EditorClassIdentifier: 
+  id: A03
+  icon: {fileID: 21300000, guid: 14d0e6482652c354e8e54c80463bbe8d, type: 3}
+  description: "\u80FD\u91CF\u7403\u73AF\u7ED5"
+  abilityPropertyUp:
+  - {fileID: 11400000, guid: 0cfeaafdf2f37474ea4e8844be596e91, type: 2}
+  orbitRadius: 3
+  orbitSpeed: 100
+  damage: 5

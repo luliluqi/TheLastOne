@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50c50fc96dd24794a89d949197a4e751, type: 3}
+  m_Name: M870
+  m_EditorClassIdentifier: 
+  weaponName: M870
+  weaponIcon: {fileID: -1097667723, guid: 72b93d776d9ea2a48a256f8c76ff93a8, type: 3}
+  rate: 0.6
+  capacity: 8
+  reloadTime: 2
+  singleCount: 5
+  angle: 3
+  type: 3

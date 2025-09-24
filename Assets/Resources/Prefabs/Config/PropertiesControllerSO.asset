@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6484088d9991874b9c5beabdbd80bed, type: 3}
+  m_Name: PropertiesControllerSO
+  m_EditorClassIdentifier: 
+  PType:
+  - {fileID: 11400000, guid: 0a2f48555f51b67468a7f432e9a7bbce, type: 2}
+  - {fileID: 11400000, guid: 53bd7a5d91ce30f4e8b0b78f20d7c852, type: 2}
+  - {fileID: 11400000, guid: c4843c2f16775924980615afc03006b1, type: 2}
+  - {fileID: 11400000, guid: 057915bcae619b245a678b227981c0f9, type: 2}
+  - {fileID: 11400000, guid: f9b9f8052d4d6354aa1bc7603b4d27ea, type: 2}
+  - {fileID: 11400000, guid: 937ba64d15481ce488226bbdb8fc18cf, type: 2}
+  - {fileID: 11400000, guid: dc698650feb18c441a3c71b7da9fa113, type: 2}
+  - {fileID: 11400000, guid: c8c9e1b002b926b40af8a05c52551bcd, type: 2}
+  - {fileID: 11400000, guid: 48b41caea9f9ef749a4425b2532bef85, type: 2}
+  - {fileID: 11400000, guid: b7e20ce5856b9484ca139eebf84c6817, type: 2}
+  - {fileID: 11400000, guid: e487dbdf54f4f184c9235477bf4066e5, type: 2}
+  - {fileID: 11400000, guid: e0b3c5bb181c5ca4ca5d8c6161d5b31b, type: 2}
+  - {fileID: 11400000, guid: a7a2d5a30c5af1a4fa6f8f7cb18181e5, type: 2}
+  - {fileID: 11400000, guid: 6e284a8cd0c1f104b80eb9ba898402b2, type: 2}
+  - {fileID: 11400000, guid: f798a9118a42c6a4993d05667f71abb3, type: 2}
+  - {fileID: 11400000, guid: 9efcb63bc509d59488253cb156bd42ca, type: 2}
+  GPType:
+  - {fileID: 11400000, guid: 7e696aa47429cec468512c8d8e095e43, type: 2}
+  - {fileID: 11400000, guid: 37cc8fd6342831c47a5a45c7133154e1, type: 2}
+  - {fileID: 11400000, guid: 91bbdba1a588ef94a80746b1a3793068, type: 2}
+  - {fileID: 11400000, guid: 76da5776e47c22f4482c42342f8aad06, type: 2}
+  - {fileID: 11400000, guid: 94d541d6656b4b94dbceede1986e92f1, type: 2}
+  - {fileID: 11400000, guid: ce6eff80bb6020641b906bab3d7bf164, type: 2}
+  - {fileID: 11400000, guid: c096b5a7167eb404fb33ff0497039e55, type: 2}
+  SPType:
+  - {fileID: 11400000, guid: 6b290d13406dfa547b4076235aec3bb7, type: 2}
+  - {fileID: 11400000, guid: fd419ea4cd321194b98e9b6f99623e10, type: 2}
+  - {fileID: 11400000, guid: 320fa9584aef7f04785dad9eec703803, type: 2}
+  - {fileID: 11400000, guid: e14f85a0909c6d040af83420f6f146f1, type: 2}
+  - {fileID: 11400000, guid: 0cfeaafdf2f37474ea4e8844be596e91, type: 2}
+  - {fileID: 11400000, guid: c2b126d2fe0a18c4896336d8d97b955a, type: 2}
+  AbilitySOs:
+  - {fileID: 11400000, guid: c7a8dc24ececf01478befef1243064f0, type: 2}
+  - {fileID: 11400000, guid: 333311c02bb383045996a311670330ab, type: 2}
+  - {fileID: 11400000, guid: 256754c179c6c3444b7328c566439dc3, type: 2}
+  WeaponSOs:
+  - {fileID: 11400000, guid: 3daf8bc8ec460c543ac8d51e2f11c047, type: 2}
+  - {fileID: 11400000, guid: eef8875955101a34e9026b2e54ef6376, type: 2}
+  - {fileID: 11400000, guid: 397bc9a28fc6741429eb7a41f49fb0eb, type: 2}
+  - {fileID: 11400000, guid: 79f9b379306d3ef4395b98938ced5e6f, type: 2}
+  BulletsSOs:
+  - {fileID: 11400000, guid: 4206adf332cadf244b83b6eaa4a784c0, type: 2}
+  - {fileID: 11400000, guid: 86510499d879dae4f9a8e328eaac469f, type: 2}
+  - {fileID: 11400000, guid: 1379ea2556d74844b988c447ad41b3d0, type: 2}
+  - {fileID: 11400000, guid: 4a9ae871db85dc543bc2fcabdd217419, type: 2}
+  SBulletsSOs:
+  - {fileID: 11400000, guid: 45c66e5e952207a4c9c05fd5480c1ddf, type: 2}
+  - {fileID: 11400000, guid: 259c2fb8c29047447b1ead33a705ca18, type: 2}
+  - {fileID: 11400000, guid: 7ae6ab3674de5944593151c54ca0a6b7, type: 2}

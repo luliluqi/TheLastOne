@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c4f6080861afb54cb20176556ce0443, type: 3}
+  m_Name: NpcManagerSO
+  m_EditorClassIdentifier: 
+  NpcList:
+  - Npc1
+  - Npc2
+  - Npc3
+  - Npc4
+  - Npc5
+  - Npc6
+  - Npc7
+  BossList:
+  - Boss1
+  - Boss2
+  - Boss3
+  npcSOs:
+  - {fileID: 11400000, guid: 0a300d0ca5c02c14c968aecb59c170b2, type: 2}
+  - {fileID: 11400000, guid: c2033530ca288c040ae93fdef890ebfc, type: 2}
+  maxProcessNumber: 20
+  generateTime: 0.5
+  maxGenerateNumber: 20
+  npcUpdateTime: 0.02
+  bossGenerateKillCount: 150
